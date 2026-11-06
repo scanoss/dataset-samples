@@ -44,3 +44,7 @@ They range from AES and SHA-256 to post-quantum algorithms such as SPHINCS+ and 
 ## More information
 
 https://docs.scanoss.com
+
+## Next step
+
+This sample comes from https://scanoss.com/encryption-dataset/, where you can read more about the dataset. To see results for your own packages, or to get an API key, talk to the SCANOSS sales team at sales@scanoss.com or https://scanoss.com/contact.

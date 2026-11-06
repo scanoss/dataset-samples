@@ -21,3 +21,7 @@ Each folder has the raw API reply as a JSON file and the same data as a CSV file
 ## More information
 
 You can learn more about SCANOSS and its datasets at [scanoss.com](https://scanoss.com). The API documentation is at [docs.scanoss.com](https://docs.scanoss.com).
+
+## Next step
+
+These samples come from https://scanoss.com/license-dataset/, https://scanoss.com/security-dataset/ and https://scanoss.com/encryption-dataset/, where you can read more about each dataset. To see results for your own packages, or to get an API key, talk to the SCANOSS sales team at sales@scanoss.com or https://scanoss.com/contact.

@@ -40,3 +40,7 @@ SCANOSS returned 9 records. They include Log4Shell (CVE-2021-44228) and the foll
 ## More information
 
 https://docs.scanoss.com
+
+## Next step
+
+This sample comes from https://scanoss.com/security-dataset/, where you can read more about the dataset. To see results for your own packages, or to get an API key, talk to the SCANOSS sales team at sales@scanoss.com or https://scanoss.com/contact.

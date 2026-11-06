@@ -39,3 +39,7 @@ Bundled libraries show their own licences, such as MIT for Lua.
 ## More information
 
 https://docs.scanoss.com
+
+## Next step
+
+This sample comes from https://scanoss.com/license-dataset/, where you can read more about the dataset. To see results for your own packages, or to get an API key, talk to the SCANOSS sales team at sales@scanoss.com or https://scanoss.com/contact.
