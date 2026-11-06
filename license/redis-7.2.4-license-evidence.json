@@ -1,0 +1,5942 @@
+{
+  "components": [
+    {
+      "files": [
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1682,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/0045049604367da5?start=0\u0026end=1682",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/redis-check-aof.c",
+          "file_id": "0045049604367da5"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1597,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/007cb0a7930ff63a?start=0\u0026end=1597",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hiredis/sockcompat.c",
+          "file_id": "007cb0a7930ff63a"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 130,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/01913aae7847e89d?start=97\u0026end=130",
+                "start": 97
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lundump.h",
+          "file_id": "01913aae7847e89d"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1597,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/0230ebf68cec9dc5?start=0\u0026end=1597",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hiredis/sockcompat.h",
+          "file_id": "0230ebf68cec9dc5"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1676,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/025aa5de4514b78d?start=73\u0026end=1676",
+                "start": 73
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/syncio.c",
+          "file_id": "025aa5de4514b78d"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 134,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/02cd0b13cf979566?start=83\u0026end=134",
+                "start": 83
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "tests/support/response_transformers.tcl",
+          "file_id": "02cd0b13cf979566"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1606,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/03321e2007f4d5bd?start=0\u0026end=1606",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/bio.h",
+          "file_id": "03321e2007f4d5bd"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1351,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/0361d92e4591474e?start=0\u0026end=1351",
+                "start": 0
+              },
+              "license_id": "BSD-2-Clause",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 2027,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/0361d92e4591474e?start=77\u0026end=2027",
+                "start": 77
+              },
+              "license_id": "BSD-2-Clause",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 2027,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/0361d92e4591474e?start=77\u0026end=2027",
+                "start": 77
+              },
+              "license_id": "GPL-2.0-or-later",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/lzf.h",
+          "file_id": "0361d92e4591474e"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1606,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/044a7c1980f8b3d1?start=0\u0026end=1606",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/release.c",
+          "file_id": "044a7c1980f8b3d1"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 127,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/05a61aa1c8c56e7b?start=94\u0026end=127",
+                "start": 94
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lmem.c",
+          "file_id": "05a61aa1c8c56e7b"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1695,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/0729eb7bfff96cce?start=97\u0026end=1695",
+                "start": 97
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/listpack_malloc.h",
+          "file_id": "0729eb7bfff96cce"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1629,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/076905a412eaa9b3?start=0\u0026end=1629",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 2068,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/076905a412eaa9b3?start=1992\u0026end=2068",
+                "start": 1992
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/crc64.c",
+          "file_id": "076905a412eaa9b3"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 135,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/0889d82742fe10b6?start=102\u0026end=135",
+                "start": 102
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lobject.h",
+          "file_id": "0889d82742fe10b6"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 135,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/08db82d9dd4fca92?start=102\u0026end=135",
+                "start": 102
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/liolib.c",
+          "file_id": "08db82d9dd4fca92"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1896,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/0a4d1d7787be354a?start=177\u0026end=1896",
+                "start": 177
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/jemalloc/test/include/test/SFMT-params11213.h",
+          "file_id": "0a4d1d7787be354a"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1682,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/0be10dc5ba48931b?start=0\u0026end=1682",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/intset.c",
+          "file_id": "0be10dc5ba48931b"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 35844,
+                "evidence_url": "https://api.scanoss.com/v3/notice-contents/0c4c3ba91c78fbf0?start=35799\u0026end=35844",
+                "start": 35799
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "notice_declared"
+            }
+          ],
+          "file": "deps/hiredis/README.md",
+          "file_id": "0c4c3ba91c78fbf0"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 123,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/0c5d23f7dd0cf3ff?start=90\u0026end=123",
+                "start": 90
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lcode.h",
+          "file_id": "0c5d23f7dd0cf3ff"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 9195,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/0e3e18878c6e6d25?start=7477\u0026end=9195",
+                "start": 7477
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/ziplist.c",
+          "file_id": "0e3e18878c6e6d25"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1709,
+                "evidence_url": "https://api.scanoss.com/v3/notice-contents/0f7365cd62b7b0cb?start=189\u0026end=1709",
+                "start": 189
+              },
+              "license_id": "BSD-2-Clause",
+              "source": "notice_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 1628,
+                "evidence_url": "https://api.scanoss.com/v3/notice-contents/0f7365cd62b7b0cb?start=404\u0026end=1628",
+                "start": 404
+              },
+              "license_id": "BSD-2-Clause",
+              "source": "notice_declared"
+            }
+          ],
+          "file": "deps/jemalloc/COPYING",
+          "file_id": "0f7365cd62b7b0cb"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1606,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/113b9271aea8e6a3?start=0\u0026end=1606",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/t_hash.c",
+          "file_id": "113b9271aea8e6a3"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 149,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/11885ac7c157eda7?start=116\u0026end=149",
+                "start": 116
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lauxlib.h",
+          "file_id": "11885ac7c157eda7"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1896,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/1222677ac96a68a5?start=177\u0026end=1896",
+                "start": 177
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/jemalloc/test/include/test/SFMT-params2281.h",
+          "file_id": "1222677ac96a68a5"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 150,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/12ba7229e18c687a?start=101\u0026end=150",
+                "start": 101
+              },
+              "license_id": "CC0-1.0",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 151,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/12ba7229e18c687a?start=20\u0026end=151",
+                "start": 20
+              },
+              "license_id": "CC0-1.0",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hdr_histogram/hdr_atomic.h",
+          "file_id": "12ba7229e18c687a"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 797,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/136d1b706f782709?start=0\u0026end=797",
+                "start": 0
+              },
+              "license_id": "ISC",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 797,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/136d1b706f782709?start=71\u0026end=797",
+                "start": 71
+              },
+              "license_id": "ISC",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/strl.c",
+          "file_id": "136d1b706f782709"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1565,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/162ec44309c9c3be?start=0\u0026end=1565",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/connection.h",
+          "file_id": "162ec44309c9c3be"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1393,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/16dc588efa8635c0?start=203\u0026end=1393",
+                "start": 203
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 1393,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/16dc588efa8635c0?start=318\u0026end=1393",
+                "start": 318
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/setproctitle.c",
+          "file_id": "16dc588efa8635c0"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1669,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/19f90cfd1457527b?start=71\u0026end=1669",
+                "start": 71
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/tracking.c",
+          "file_id": "19f90cfd1457527b"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 2031,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/1a3a7664b46088e1?start=428\u0026end=2031",
+                "start": 428
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/redisassert.h",
+          "file_id": "1a3a7664b46088e1"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1611,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/1b4e592543de8d44?start=0\u0026end=1611",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hiredis/examples/example-push.c",
+          "file_id": "1b4e592543de8d44"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1657,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/1c8641a1986db1b1?start=0\u0026end=1657",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/geo.c",
+          "file_id": "1c8641a1986db1b1"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.9,
+              "detector": "scancode",
+              "evidence": {
+                "end": 87,
+                "evidence_url": "https://api.scanoss.com/v3/notice-contents/1fbc66b8b1ad91fb?start=13\u0026end=87",
+                "start": 13
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "notice_declared"
+            },
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 332,
+                "evidence_url": "https://api.scanoss.com/v3/notice-contents/1fbc66b8b1ad91fb?start=284\u0026end=332",
+                "start": 284
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "notice_declared"
+            }
+          ],
+          "file": "deps/linenoise/README.markdown",
+          "file_id": "1fbc66b8b1ad91fb"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1896,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/1ff1b506fbe3a9d1?start=177\u0026end=1896",
+                "start": 177
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 2256,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/1ff1b506fbe3a9d1?start=2188\u0026end=2256",
+                "start": 2188
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/jemalloc/test/src/SFMT.c",
+          "file_id": "1ff1b506fbe3a9d1"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 116,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/203f8a7852309f82?start=83\u0026end=116",
+                "start": 83
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/llex.c",
+          "file_id": "203f8a7852309f82"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 235,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/2126b7ea495c5019?start=167\u0026end=235",
+                "start": 167
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 235,
+                "evidence_url": "https://api.scanoss.com/metadata-contents/2126b7ea495c5019?start=167\u0026end=235",
+                "start": 167
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "metadata_declared"
+            }
+          ],
+          "file": "deps/hiredis/Makefile",
+          "file_id": "2126b7ea495c5019"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1569,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/217def807f121aa2?start=0\u0026end=1569",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/resp_parser.h",
+          "file_id": "217def807f121aa2"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1606,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/224c80d43cb6764d?start=0\u0026end=1606",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/util.c",
+          "file_id": "224c80d43cb6764d"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1743,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/26dfe7c6c9e63a7a?start=145\u0026end=1743",
+                "start": 145
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/modules/hellocluster.c",
+          "file_id": "26dfe7c6c9e63a7a"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1918,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/2712060abc0a60d3?start=315\u0026end=1918",
+                "start": 315
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hiredis/dict.c",
+          "file_id": "2712060abc0a60d3"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1685,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/272eb0346bd67970?start=0\u0026end=1685",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hiredis/async.h",
+          "file_id": "272eb0346bd67970"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1601,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/2811b5818cb72b4e?start=0\u0026end=1601",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/t_stream.c",
+          "file_id": "2811b5818cb72b4e"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1639,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/2849fb767b13b2e9?start=36\u0026end=1639",
+                "start": 36
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/sentinel.c",
+          "file_id": "2849fb767b13b2e9"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1601,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/2856a485016251cb?start=0\u0026end=1601",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/localtime.c",
+          "file_id": "2856a485016251cb"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1762,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/292cb08aa21c22de?start=164\u0026end=1762",
+                "start": 164
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/debugmacro.h",
+          "file_id": "292cb08aa21c22de"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1606,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/2aade1a106f4a436?start=0\u0026end=1606",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/slowlog.h",
+          "file_id": "2aade1a106f4a436"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 2116,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/2db9f90876a2fa51?start=518\u0026end=2116",
+                "start": 518
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "tests/modules/propagate.c",
+          "file_id": "2db9f90876a2fa51"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 132,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/2e19cc950cfcabc7?start=99\u0026end=132",
+                "start": 99
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lzio.c",
+          "file_id": "2e19cc950cfcabc7"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1685,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/2eadd534145d312a?start=0\u0026end=1685",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hiredis/read.h",
+          "file_id": "2eadd534145d312a"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 11736,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/2eb4e06e84f5ad6a?start=10611\u0026end=11736",
+                "start": 10611
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 11736,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/2eb4e06e84f5ad6a?start=10679\u0026end=11736",
+                "start": 10679
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 202,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/2eb4e06e84f5ad6a?start=63\u0026end=202",
+                "start": 63
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lua.h",
+          "file_id": "2eb4e06e84f5ad6a"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1606,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/30191c08b8583a04?start=0\u0026end=1606",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/server.c",
+          "file_id": "30191c08b8583a04"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1896,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/309f88d6f2978770?start=177\u0026end=1896",
+                "start": 177
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/jemalloc/test/unit/SFMT.c",
+          "file_id": "309f88d6f2978770"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1665,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/3142e4d5a5eb7b87?start=62\u0026end=1665",
+                "start": 62
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/anet.h",
+          "file_id": "3142e4d5a5eb7b87"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1588,
+                "evidence_url": "https://api.scanoss.com/v3/notice-contents/31d976fbb6185d4b?start=0\u0026end=1588",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "notice_declared"
+            }
+          ],
+          "file": "deps/hiredis/COPYING",
+          "file_id": "31d976fbb6185d4b"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1601,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/321f7fc29595799c?start=0\u0026end=1601",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/notify.c",
+          "file_id": "321f7fc29595799c"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1723,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/324418408f3a62a4?start=48\u0026end=1723",
+                "start": 48
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hiredis/sds.c",
+          "file_id": "324418408f3a62a4"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1634,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/32dca527f0129b32?start=31\u0026end=1634",
+                "start": 31
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/redis-benchmark.c",
+          "file_id": "32dca527f0129b32"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 157,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/330aac71a382d62a?start=124\u0026end=157",
+                "start": 124
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lfunc.h",
+          "file_id": "330aac71a382d62a"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 155,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/3392b8b814ae8cb9?start=106\u0026end=155",
+                "start": 106
+              },
+              "license_id": "CC0-1.0",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 156,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/3392b8b814ae8cb9?start=23\u0026end=156",
+                "start": 23
+              },
+              "license_id": "CC0-1.0",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hdr_histogram/hdr_histogram.h",
+          "file_id": "3392b8b814ae8cb9"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 116,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/34f6461c19067976?start=83\u0026end=116",
+                "start": 83
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lzio.h",
+          "file_id": "34f6461c19067976"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 119,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/351165b99f227bc5?start=86\u0026end=119",
+                "start": 86
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/ltable.c",
+          "file_id": "351165b99f227bc5"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1780,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/352cf990ccf334f0?start=177\u0026end=1780",
+                "start": 177
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/zipmap.h",
+          "file_id": "352cf990ccf334f0"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1723,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/35ecc8150f82c513?start=48\u0026end=1723",
+                "start": 48
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/sds.h",
+          "file_id": "35ecc8150f82c513"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1609,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/37a572fc2a4e9bd0?start=0\u0026end=1609",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hiredis/adapters/libev.h",
+          "file_id": "37a572fc2a4e9bd0"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1335,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/37a71e1bd882e724?start=0\u0026end=1335",
+                "start": 0
+              },
+              "license_id": "BSD-2-Clause",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 1335,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/37a71e1bd882e724?start=59\u0026end=1335",
+                "start": 59
+              },
+              "license_id": "BSD-2-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hiredis/adapters/qt.h",
+          "file_id": "37a71e1bd882e724"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1749,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/38240a6bfb7a5ce5?start=146\u0026end=1749",
+                "start": 146
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/expire.c",
+          "file_id": "38240a6bfb7a5ce5"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 146,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/3937e634e4329abd?start=95\u0026end=146",
+                "start": 95
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "tests/support/cluster.tcl",
+          "file_id": "3937e634e4329abd"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1723,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/39898272f23058e8?start=48\u0026end=1723",
+                "start": 48
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hiredis/sdsalloc.h",
+          "file_id": "39898272f23058e8"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1896,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/3a2981725c97260f?start=177\u0026end=1896",
+                "start": 177
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/jemalloc/test/include/test/SFMT-params132049.h",
+          "file_id": "3a2981725c97260f"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1606,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/3ae7cd216375c65b?start=0\u0026end=1606",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/t_string.c",
+          "file_id": "3ae7cd216375c65b"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 118,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/3b393d520b4f7d2b?start=85\u0026end=118",
+                "start": 85
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lvm.c",
+          "file_id": "3b393d520b4f7d2b"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 220,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/3b8ac4e681c5387c?start=159\u0026end=220",
+                "start": 159
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "utils/corrupt_rdb.c",
+          "file_id": "3b8ac4e681c5387c"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1750,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/3db7dd85a32c024b?start=152\u0026end=1750",
+                "start": 152
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/hyperloglog.c",
+          "file_id": "3db7dd85a32c024b"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 130,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/3debda5c723890ca?start=97\u0026end=130",
+                "start": 97
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/ldo.c",
+          "file_id": "3debda5c723890ca"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 806,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/3ef531e2e992e39c?start=121\u0026end=806",
+                "start": 121
+              },
+              "license_id": "HPND-sell-variant",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 806,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/3ef531e2e992e39c?start=185\u0026end=806",
+                "start": 185
+              },
+              "license_id": "NTP",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/jemalloc/build-aux/install-sh",
+          "file_id": "3ef531e2e992e39c"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 1176,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/3f1fef4a4062f2ed?start=101\u0026end=1176",
+                "start": 101
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1176,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/3f1fef4a4062f2ed?start=38\u0026end=1176",
+                "start": 38
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/strbuf.h",
+          "file_id": "3f1fef4a4062f2ed"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 138,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/40953e76dda34de1?start=105\u0026end=138",
+                "start": 105
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/linit.c",
+          "file_id": "40953e76dda34de1"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1606,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/40b8e6e370521184?start=0\u0026end=1606",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/fmacros.h",
+          "file_id": "40b8e6e370521184"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1896,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/412f94a6ffa5731d?start=322\u0026end=1896",
+                "start": 322
+              },
+              "license_id": "BSL-1.0",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 1896,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/412f94a6ffa5731d?start=492\u0026end=1896",
+                "start": 492
+              },
+              "license_id": "BSL-1.0",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/fpconv/fpconv_dtoa.c",
+          "file_id": "412f94a6ffa5731d"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1320,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/43167f2a086e0a74?start=11\u0026end=1320",
+                "start": 11
+              },
+              "license_id": "BSD-2-Clause",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 0.9888,
+              "detector": "scancode",
+              "evidence": {
+                "end": 1320,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/43167f2a086e0a74?start=88\u0026end=1320",
+                "start": 88
+              },
+              "license_id": "BSD-2-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "utils/install_server.sh",
+          "file_id": "43167f2a086e0a74"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 304,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/44afdf6976777c86?start=152\u0026end=304",
+                "start": 152
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 381,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/44afdf6976777c86?start=304\u0026end=381",
+                "start": 304
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "CONTRIBUTING.md",
+          "file_id": "44afdf6976777c86"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1680,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/4525384bd68a56df?start=280\u0026end=1680",
+                "start": 280
+              },
+              "license_id": "BSD-2-Clause",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 1680,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/4525384bd68a56df?start=374\u0026end=1680",
+                "start": 374
+              },
+              "license_id": "BSD-2-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/sparkline.c",
+          "file_id": "4525384bd68a56df"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 2281,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/45a65b81b6c042e3?start=2259\u0026end=2281",
+                "start": 2259
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/HISTORY",
+          "file_id": "45a65b81b6c042e3"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 787,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/45c3a00a780a0a9c?start=730\u0026end=787",
+                "start": 730
+              },
+              "license_id": "BSD-2-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "utils/tracking_collisions.c",
+          "file_id": "45c3a00a780a0a9c"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 11481,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/46d97d79d8e46830?start=10275\u0026end=11481",
+                "start": 10275
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 11400,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/46d97d79d8e46830?start=10343\u0026end=11400",
+                "start": 10343
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lua_struct.c",
+          "file_id": "46d97d79d8e46830"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1902,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/46ede605be7de890?start=129\u0026end=1902",
+                "start": 129
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 1902,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/46ede605be7de890?start=416\u0026end=1902",
+                "start": 416
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/pqsort.c",
+          "file_id": "46ede605be7de890"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 2161,
+                "evidence_url": "https://api.scanoss.com/v3/notice-contents/489da66791b6c9c1?start=0\u0026end=2161",
+                "start": 0
+              },
+              "license_id": "BSD-2-Clause",
+              "source": "notice_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 2161,
+                "evidence_url": "https://api.scanoss.com/v3/notice-contents/489da66791b6c9c1?start=0\u0026end=2161",
+                "start": 0
+              },
+              "license_id": "CC0-1.0",
+              "source": "notice_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 191,
+                "evidence_url": "https://api.scanoss.com/v3/notice-contents/489da66791b6c9c1?start=142\u0026end=191",
+                "start": 142
+              },
+              "license_id": "CC0-1.0",
+              "source": "notice_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 2161,
+                "evidence_url": "https://api.scanoss.com/v3/notice-contents/489da66791b6c9c1?start=767\u0026end=2161",
+                "start": 767
+              },
+              "license_id": "BSD-2-Clause",
+              "source": "notice_declared"
+            }
+          ],
+          "file": "deps/hdr_histogram/LICENSE.txt",
+          "file_id": "489da66791b6c9c1"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1213,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/48b6e7937826098b?start=0\u0026end=1213",
+                "start": 0
+              },
+              "license_id": "Zlib",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 1213,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/48b6e7937826098b?start=369\u0026end=1213",
+                "start": 369
+              },
+              "license_id": "Zlib",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/crcspeed.c",
+          "file_id": "48b6e7937826098b"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1945,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/4a21bcd83a5ec97b?start=347\u0026end=1945",
+                "start": 347
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/modules/helloworld.c",
+          "file_id": "4a21bcd83a5ec97b"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1887,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/4a749ddf5d4a67d2?start=321\u0026end=1887",
+                "start": 321
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/defrag.c",
+          "file_id": "4a749ddf5d4a67d2"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 175,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/4abf1730d37ee361?start=142\u0026end=175",
+                "start": 142
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/llimits.h",
+          "file_id": "4abf1730d37ee361"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1606,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/4bf6bc67bfebc7e2?start=0\u0026end=1606",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/rdb.h",
+          "file_id": "4bf6bc67bfebc7e2"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 107,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/4bf841184c2837db?start=74\u0026end=107",
+                "start": 74
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lapi.c",
+          "file_id": "4bf841184c2837db"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1564,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/4c015faca28ba458?start=0\u0026end=1564",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/tls.c",
+          "file_id": "4c015faca28ba458"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1639,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/4e89a48cc6dd2a33?start=36\u0026end=1639",
+                "start": 36
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/cluster.c",
+          "file_id": "4e89a48cc6dd2a33"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1606,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/4f63d991a6b1131f?start=0\u0026end=1606",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/networking.c",
+          "file_id": "4f63d991a6b1131f"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1351,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/4fb1b1ada55cea5c?start=0\u0026end=1351",
+                "start": 0
+              },
+              "license_id": "BSD-2-Clause",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 2027,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/4fb1b1ada55cea5c?start=77\u0026end=2027",
+                "start": 77
+              },
+              "license_id": "BSD-2-Clause",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 2027,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/4fb1b1ada55cea5c?start=77\u0026end=2027",
+                "start": 77
+              },
+              "license_id": "GPL-2.0-or-later",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/lzf_c.c",
+          "file_id": "4fb1b1ada55cea5c"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1606,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/5074534e8663058f?start=0\u0026end=1606",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/config.h",
+          "file_id": "5074534e8663058f"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1723,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/5195c888ffdc557b?start=48\u0026end=1723",
+                "start": 48
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hiredis/sds.h",
+          "file_id": "5195c888ffdc557b"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1896,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/51c503f8ee9a69c1?start=177\u0026end=1896",
+                "start": 177
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/jemalloc/test/include/test/SFMT-params216091.h",
+          "file_id": "51c503f8ee9a69c1"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 149,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/525f505d7499fc4c?start=116\u0026end=149",
+                "start": 116
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lstring.c",
+          "file_id": "525f505d7499fc4c"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1601,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/52a2cf4fec015f33?start=0\u0026end=1601",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/lolwut.c",
+          "file_id": "52a2cf4fec015f33"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1896,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/53ff5106690bbc7b?start=177\u0026end=1896",
+                "start": 177
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 2275,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/53ff5106690bbc7b?start=2223\u0026end=2275",
+                "start": 2223
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/jemalloc/test/include/test/SFMT-alti.h",
+          "file_id": "53ff5106690bbc7b"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1702,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/54783fcac4501dcd?start=0\u0026end=1702",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/geohash.h",
+          "file_id": "54783fcac4501dcd"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.9,
+              "detector": "scancode",
+              "evidence": {
+                "end": 217,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/54a852e13ae5a284?start=152\u0026end=217",
+                "start": 152
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "utils/build-static-symbols.tcl",
+          "file_id": "54a852e13ae5a284"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1682,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/5560d365fb914885?start=79\u0026end=1682",
+                "start": 79
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/rax.c",
+          "file_id": "5560d365fb914885"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1564,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/55c9b995c9f8d7d4?start=0\u0026end=1564",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/syscheck.h",
+          "file_id": "55c9b995c9f8d7d4"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1890,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/575f78abf047a3ae?start=75\u0026end=1890",
+                "start": 75
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hiredis/net.c",
+          "file_id": "575f78abf047a3ae"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 117,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/580dc1b5e9b16ac6?start=66\u0026end=117",
+                "start": 66
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "utils/speed-regression.tcl",
+          "file_id": "580dc1b5e9b16ac6"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 155,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/58678461a1aa1c5d?start=106\u0026end=155",
+                "start": 106
+              },
+              "license_id": "CC0-1.0",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 156,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/58678461a1aa1c5d?start=23\u0026end=156",
+                "start": 23
+              },
+              "license_id": "CC0-1.0",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hdr_histogram/hdr_histogram.c",
+          "file_id": "58678461a1aa1c5d"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1680,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/58dbf4c57ae22603?start=77\u0026end=1680",
+                "start": 77
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/config.c",
+          "file_id": "58dbf4c57ae22603"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 332,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/5974920afe979cfd?start=256\u0026end=332",
+                "start": 256
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "tests/instances.tcl",
+          "file_id": "5974920afe979cfd"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 7048,
+                "evidence_url": "https://api.scanoss.com/v3/notice-contents/59d075f3c62f5390?start=0\u0026end=7048",
+                "start": 0
+              },
+              "license_id": "CC0-1.0",
+              "source": "notice_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 7048,
+                "evidence_url": "https://api.scanoss.com/v3/notice-contents/59d075f3c62f5390?start=0\u0026end=7048",
+                "start": 0
+              },
+              "license_id": "CC0-1.0",
+              "source": "notice_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 7048,
+                "evidence_url": "https://api.scanoss.com/v3/notice-contents/59d075f3c62f5390?start=0\u0026end=7048",
+                "start": 0
+              },
+              "license_id": "CC0-1.0",
+              "source": "notice_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 7048,
+                "evidence_url": "https://api.scanoss.com/v3/notice-contents/59d075f3c62f5390?start=0\u0026end=7048",
+                "start": 0
+              },
+              "license_id": "CC0-1.0",
+              "source": "notice_declared"
+            }
+          ],
+          "file": "deps/hdr_histogram/COPYING.txt",
+          "file_id": "59d075f3c62f5390"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 123,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/59e1a19002303bbf?start=90\u0026end=123",
+                "start": 90
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lcode.c",
+          "file_id": "59e1a19002303bbf"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1747,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/5a6e0ad2ae4666d2?start=153\u0026end=1747",
+                "start": 153
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "tests/modules/postnotifications.c",
+          "file_id": "5a6e0ad2ae4666d2"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1685,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/5b3b329a030fc7c0?start=0\u0026end=1685",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hiredis/read.c",
+          "file_id": "5b3b329a030fc7c0"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1702,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/5b8aa88a2981f0a3?start=0\u0026end=1702",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/geohash_helper.h",
+          "file_id": "5b8aa88a2981f0a3"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1601,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/5c07126eb2ece0ae?start=0\u0026end=1601",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/redis-check-rdb.c",
+          "file_id": "5c07126eb2ece0ae"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1919,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/5cf87424dee797c0?start=316\u0026end=1919",
+                "start": 316
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/dict.c",
+          "file_id": "5cf87424dee797c0"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 2376,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/5deb1b65fbab8629?start=773\u0026end=2376",
+                "start": 773
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/endianconv.c",
+          "file_id": "5deb1b65fbab8629"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1711,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/5e5520d81e03a348?start=24\u0026end=1711",
+                "start": 24
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/crc16.c",
+          "file_id": "5e5520d81e03a348"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 127,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/5f0a958360c37ea5?start=94\u0026end=127",
+                "start": 94
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/ldump.c",
+          "file_id": "5f0a958360c37ea5"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 3086,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/5fc17ee069699ebb?start=1483\u0026end=3086",
+                "start": 1483
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/bio.c",
+          "file_id": "5fc17ee069699ebb"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1707,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/604a303835e0b3df?start=0\u0026end=1707",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/geohash_helper.c",
+          "file_id": "604a303835e0b3df"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 156,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/605eb5bc01dee594?start=80\u0026end=156",
+                "start": 80
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "tests/cluster/run.tcl",
+          "file_id": "605eb5bc01dee594"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1569,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/60f74a43e181b275?start=0\u0026end=1569",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/script.h",
+          "file_id": "60f74a43e181b275"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1487,
+                "evidence_url": "https://api.scanoss.com/v3/notice-contents/627d0fa172badf34?start=0\u0026end=1487",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "notice_declared"
+            }
+          ],
+          "file": "COPYING",
+          "file_id": "627d0fa172badf34"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1896,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/63a094681152a4b5?start=177\u0026end=1896",
+                "start": 177
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/jemalloc/test/include/test/SFMT-params4253.h",
+          "file_id": "63a094681152a4b5"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 121,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/647265220b075006?start=63\u0026end=121",
+                "start": 63
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "utils/redis-copy.rb",
+          "file_id": "647265220b075006"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1756,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/64f3e382dcb33e35?start=153\u0026end=1756",
+                "start": 153
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/evict.c",
+          "file_id": "64f3e382dcb33e35"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1603,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/65bf7dec80aeb08f?start=0\u0026end=1603",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/timeout.c",
+          "file_id": "65bf7dec80aeb08f"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1678,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/66e71756145bf5cd?start=75\u0026end=1678",
+                "start": 75
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/zmalloc.h",
+          "file_id": "66e71756145bf5cd"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 1188,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/6771c4b61a431c53?start=113\u0026end=1188",
+                "start": 113
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1188,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/6771c4b61a431c53?start=50\u0026end=1188",
+                "start": 50
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/fpconv.c",
+          "file_id": "6771c4b61a431c53"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1601,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/6790aad92051ab2b?start=0\u0026end=1601",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/lolwut5.c",
+          "file_id": "6790aad92051ab2b"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1638,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/68db9a0426f8a5cf?start=35\u0026end=1638",
+                "start": 35
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/object.c",
+          "file_id": "68db9a0426f8a5cf"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1564,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/6917523e84c1ab36?start=0\u0026end=1564",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/function_lua.c",
+          "file_id": "6917523e84c1ab36"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 135,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/6d976b021fbe99b2?start=102\u0026end=135",
+                "start": 102
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/loslib.c",
+          "file_id": "6d976b021fbe99b2"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1644,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/6df84fdda8687ee8?start=41\u0026end=1644",
+                "start": 41
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/sort.c",
+          "file_id": "6df84fdda8687ee8"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1664,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/6e1b55128d5f5fff?start=61\u0026end=1664",
+                "start": 61
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/adlist.h",
+          "file_id": "6e1b55128d5f5fff"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 127,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/6e7a2baa1d629adb?start=94\u0026end=127",
+                "start": 94
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lmem.h",
+          "file_id": "6e7a2baa1d629adb"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1606,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/6eba24baba983818?start=0\u0026end=1606",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/server.h",
+          "file_id": "6eba24baba983818"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 158,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/6ebe1f8403ae3312?start=125\u0026end=158",
+                "start": 125
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lfunc.c",
+          "file_id": "6ebe1f8403ae3312"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1922,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/6f1a9884d8c0c8d3?start=324\u0026end=1922",
+                "start": 324
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/latency.c",
+          "file_id": "6f1a9884d8c0c8d3"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1574,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/70b133b73d0f6acc?start=0\u0026end=1574",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/call_reply.h",
+          "file_id": "70b133b73d0f6acc"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 2313,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/70d21e319c954706?start=710\u0026end=2313",
+                "start": 710
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/rand.c",
+          "file_id": "70d21e319c954706"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 149,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/718ac9c99df43cc8?start=116\u0026end=149",
+                "start": 116
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lstring.h",
+          "file_id": "718ac9c99df43cc8"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 117,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/71e2341edd4b67a9?start=84\u0026end=117",
+                "start": 84
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lvm.h",
+          "file_id": "71e2341edd4b67a9"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 2231,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/7256b02d23cd27df?start=628\u0026end=2231",
+                "start": 628
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/zipmap.c",
+          "file_id": "7256b02d23cd27df"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1682,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/74c15b38f25d53f3?start=0\u0026end=1682",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/ziplist.h",
+          "file_id": "74c15b38f25d53f3"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 133,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/75d599b547eceb00?start=100\u0026end=133",
+                "start": 100
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lmathlib.c",
+          "file_id": "75d599b547eceb00"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 1176,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/7689d8a3ce0b3497?start=101\u0026end=1176",
+                "start": 101
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1176,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/7689d8a3ce0b3497?start=38\u0026end=1176",
+                "start": 38
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/strbuf.c",
+          "file_id": "7689d8a3ce0b3497"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1574,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/77901b7345c5e514?start=0\u0026end=1574",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/call_reply.c",
+          "file_id": "77901b7345c5e514"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1625,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/78c38bb992ddf1e6?start=22\u0026end=1625",
+                "start": 22
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/bitops.c",
+          "file_id": "78c38bb992ddf1e6"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1606,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/78de80cf4cc1725e?start=0\u0026end=1606",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/lolwut.h",
+          "file_id": "78de80cf4cc1725e"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 2640,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/7cb255d11f392cc0?start=1042\u0026end=2640",
+                "start": 1042
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/atomicvar.h",
+          "file_id": "7cb255d11f392cc0"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 109,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/7d37cf161544e93b?start=76\u0026end=109",
+                "start": 76
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/ltm.h",
+          "file_id": "7d37cf161544e93b"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1919,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/7de9a3f17dfac0f4?start=316\u0026end=1919",
+                "start": 316
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/dict.h",
+          "file_id": "7de9a3f17dfac0f4"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1569,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/7dfafddc0ea695b2?start=0\u0026end=1569",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/script.c",
+          "file_id": "7dfafddc0ea695b2"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1606,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/7e8a74ad0226236a?start=0\u0026end=1606",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/rand.h",
+          "file_id": "7e8a74ad0226236a"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1723,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/7ef39bf50df310a4?start=48\u0026end=1723",
+                "start": 48
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/sds.c",
+          "file_id": "7ef39bf50df310a4"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1982,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/7fa75313ee395dc2?start=386\u0026end=1982",
+                "start": 386
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/redisassert.c",
+          "file_id": "7fa75313ee395dc2"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 163,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/80d7d2cb0c4f59c4?start=130\u0026end=163",
+                "start": 130
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lstrlib.c",
+          "file_id": "80d7d2cb0c4f59c4"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1771,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/8214f8dcc0537170?start=173\u0026end=1771",
+                "start": 173
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/latency.h",
+          "file_id": "8214f8dcc0537170"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 113,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/8332b871d7ee9647?start=80\u0026end=113",
+                "start": 80
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lparser.h",
+          "file_id": "8332b871d7ee9647"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 114,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/85b2bd935e6f0c3e?start=81\u0026end=114",
+                "start": 81
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lstate.h",
+          "file_id": "85b2bd935e6f0c3e"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1318,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/888712f9133ea760?start=206\u0026end=1318",
+                "start": 206
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 1318,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/888712f9133ea760?start=243\u0026end=1318",
+                "start": 243
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/unix.c",
+          "file_id": "888712f9133ea760"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 114,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/88f4599ec0f95fd5?start=81\u0026end=114",
+                "start": 81
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lstate.c",
+          "file_id": "88f4599ec0f95fd5"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1890,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/89d9f5ac92335764?start=75\u0026end=1890",
+                "start": 75
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hiredis/net.h",
+          "file_id": "89d9f5ac92335764"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1896,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/8a79c013b116232f?start=177\u0026end=1896",
+                "start": 177
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/jemalloc/test/include/test/SFMT-params.h",
+          "file_id": "8a79c013b116232f"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1606,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/8b55a5b2b290aa6b?start=0\u0026end=1606",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/multi.c",
+          "file_id": "8b55a5b2b290aa6b"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1569,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/8bdc2e9789a59dd6?start=0\u0026end=1569",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/script_lua.c",
+          "file_id": "8bdc2e9789a59dd6"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 100,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/8c619e6081177320?start=67\u0026end=100",
+                "start": 67
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lopcodes.c",
+          "file_id": "8c619e6081177320"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1574,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/8d8ad2fdfe18902f?start=0\u0026end=1574",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/resp_parser.c",
+          "file_id": "8d8ad2fdfe18902f"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1606,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/8e036c4f9169dafd?start=0\u0026end=1606",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/util.h",
+          "file_id": "8e036c4f9169dafd"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1665,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/8f5e537bea1e38d4?start=62\u0026end=1665",
+                "start": 62
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/anet.c",
+          "file_id": "8f5e537bea1e38d4"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1650,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/9079bc18f382eddb?start=47\u0026end=1650",
+                "start": 47
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/replication.c",
+          "file_id": "9079bc18f382eddb"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1601,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/927d9be0e20c0be8?start=0\u0026end=1601",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/module.c",
+          "file_id": "927d9be0e20c0be8"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 1177,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/92e7e0cb73e2518e?start=102\u0026end=1177",
+                "start": 102
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1177,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/92e7e0cb73e2518e?start=39\u0026end=1177",
+                "start": 39
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lua_cjson.c",
+          "file_id": "92e7e0cb73e2518e"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 133,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/939456b21d6d97f1?start=100\u0026end=133",
+                "start": 100
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/ltablib.c",
+          "file_id": "939456b21d6d97f1"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1896,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/9408555057509c38?start=177\u0026end=1896",
+                "start": 177
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 2278,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/9408555057509c38?start=2226\u0026end=2278",
+                "start": 2226
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/jemalloc/test/include/test/SFMT.h",
+          "file_id": "9408555057509c38"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 109,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/942aab2b1bcb51d6?start=76\u0026end=109",
+                "start": 76
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/print.c",
+          "file_id": "942aab2b1bcb51d6"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1569,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/943b4fdf09c3a2d1?start=0\u0026end=1569",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/script_lua.h",
+          "file_id": "943b4fdf09c3a2d1"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1910,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/944fa2ef63f209a5?start=415\u0026end=1910",
+                "start": 415
+              },
+              "license_id": "BSD-2-Clause",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 1910,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/944fa2ef63f209a5?start=597\u0026end=1910",
+                "start": 597
+              },
+              "license_id": "BSD-2-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/linenoise/linenoise.c",
+          "file_id": "944fa2ef63f209a5"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 113,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/962faadfb0cf57ca?start=80\u0026end=113",
+                "start": 80
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lparser.c",
+          "file_id": "962faadfb0cf57ca"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1682,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/9736123336d3b4d1?start=0\u0026end=1682",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/t_zset.c",
+          "file_id": "9736123336d3b4d1"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1719,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/973e99f30a47d378?start=0\u0026end=1719",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hiredis/ssl.c",
+          "file_id": "973e99f30a47d378"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 129,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/9745550f9dbb29a1?start=96\u0026end=129",
+                "start": 96
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lundump.c",
+          "file_id": "9745550f9dbb29a1"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1564,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/97f083262ae87eef?start=0\u0026end=1564",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/socket.c",
+          "file_id": "97f083262ae87eef"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 148,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/9c34efcea5f75539?start=115\u0026end=148",
+                "start": 115
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/ldebug.h",
+          "file_id": "9c34efcea5f75539"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 129,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/9e17ed53888cc8f2?start=96\u0026end=129",
+                "start": 96
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/luaconf.h",
+          "file_id": "9e17ed53888cc8f2"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1645,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/9ebc059c684e04d7?start=42\u0026end=1645",
+                "start": 42
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/rax.h",
+          "file_id": "9ebc059c684e04d7"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1612,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/a1b13e35ced56534?start=51\u0026end=1612",
+                "start": 51
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/cli_common.c",
+          "file_id": "a1b13e35ced56534"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1564,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/a2304532b16a123d?start=0\u0026end=1564",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/functions.c",
+          "file_id": "a2304532b16a123d"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 31120,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/a29192ead058e587?start=29916\u0026end=31120",
+                "start": 29916
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 31040,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/a29192ead058e587?start=29983\u0026end=31040",
+                "start": 29983
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lua_cmsgpack.c",
+          "file_id": "a29192ead058e587"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1606,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/a4a2e68a75e3d696?start=0\u0026end=1606",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/asciilogo.h",
+          "file_id": "a4a2e68a75e3d696"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1818,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/a57cd01c40e8ab2a?start=0\u0026end=1818",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hiredis/hiredis.h",
+          "file_id": "a57cd01c40e8ab2a"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1761,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/a6da957656468c49?start=163\u0026end=1761",
+                "start": 163
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/listpack.h",
+          "file_id": "a6da957656468c49"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1896,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/a7b84f8bc66283f1?start=177\u0026end=1896",
+                "start": 177
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/jemalloc/test/include/test/SFMT-params86243.h",
+          "file_id": "a7b84f8bc66283f1"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1564,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/a7eb26e95cc2280f?start=0\u0026end=1564",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/functions.h",
+          "file_id": "a7eb26e95cc2280f"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1601,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/a80dfaa39b91b36c?start=0\u0026end=1601",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/childinfo.c",
+          "file_id": "a80dfaa39b91b36c"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1606,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/a8f008309716e2a9?start=0\u0026end=1606",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/pubsub.c",
+          "file_id": "a8f008309716e2a9"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1896,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/a9c9fc662d15e6a6?start=177\u0026end=1896",
+                "start": 177
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/jemalloc/test/include/test/SFMT-params1279.h",
+          "file_id": "a9c9fc662d15e6a6"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1338,
+                "evidence_url": "https://api.scanoss.com/v3/notice-contents/aa21344de2f6ac32?start=0\u0026end=1338",
+                "start": 0
+              },
+              "license_id": "BSL-1.0",
+              "source": "notice_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 1338,
+                "evidence_url": "https://api.scanoss.com/v3/notice-contents/aa21344de2f6ac32?start=0\u0026end=1338",
+                "start": 0
+              },
+              "license_id": "BSL-1.0",
+              "source": "notice_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1338,
+                "evidence_url": "https://api.scanoss.com/v3/notice-contents/aa21344de2f6ac32?start=0\u0026end=1338",
+                "start": 0
+              },
+              "license_id": "BSL-1.0",
+              "source": "notice_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1338,
+                "evidence_url": "https://api.scanoss.com/v3/notice-contents/aa21344de2f6ac32?start=0\u0026end=1338",
+                "start": 0
+              },
+              "license_id": "BSL-1.0",
+              "source": "notice_declared"
+            }
+          ],
+          "file": "deps/fpconv/LICENSE.txt",
+          "file_id": "aa21344de2f6ac32"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1529,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/acba57521e5c48bc?start=362\u0026end=1529",
+                "start": 362
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 1529,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/acba57521e5c48bc?start=457\u0026end=1529",
+                "start": 457
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 213,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/acba57521e5c48bc?start=58\u0026end=213",
+                "start": 58
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/jemalloc/test/unit/hash.c",
+          "file_id": "acba57521e5c48bc"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1606,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/ad7665b55c634486?start=0\u0026end=1606",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/memtest.c",
+          "file_id": "ad7665b55c634486"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 2103,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/ae04e78d4ab72ad6?start=505\u0026end=2103",
+                "start": 505
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/modules/hellotype.c",
+          "file_id": "ae04e78d4ab72ad6"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 129,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/ae9cb13e4678af22?start=96\u0026end=129",
+                "start": 96
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/ldo.h",
+          "file_id": "ae9cb13e4678af22"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1611,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/b2f20e9c4b4b0d7c?start=0\u0026end=1611",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hiredis/sdscompat.h",
+          "file_id": "b2f20e9c4b4b0d7c"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1800,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/b3c0a6c4ef9f0de8?start=197\u0026end=1800",
+                "start": 197
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/ae.c",
+          "file_id": "b3c0a6c4ef9f0de8"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1685,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/b49ae2b604db0ca1?start=0\u0026end=1685",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hiredis/async.c",
+          "file_id": "b49ae2b604db0ca1"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 119,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/b5fb095e36211c58?start=86\u0026end=119",
+                "start": 86
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/ltable.h",
+          "file_id": "b5fb095e36211c58"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 645,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/b64d0e0f5bd1a894?start=255\u0026end=645",
+                "start": 255
+              },
+              "license_id": "CC0-1.0",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 642,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/b64d0e0f5bd1a894?start=593\u0026end=642",
+                "start": 593
+              },
+              "license_id": "CC0-1.0",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/siphash.c",
+          "file_id": "b64d0e0f5bd1a894"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1645,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/b6905ea646be0d04?start=0\u0026end=1645",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/debug.c",
+          "file_id": "b6905ea646be0d04"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 109,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/b6a5d2df2d16b1fa?start=76\u0026end=109",
+                "start": 76
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/ltm.c",
+          "file_id": "b6a5d2df2d16b1fa"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 1303,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/b9665b8b442adce8?start=1232\u0026end=1303",
+                "start": 1232
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 1229,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/b9665b8b442adce8?start=154\u0026end=1229",
+                "start": 154
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1229,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/b9665b8b442adce8?start=92\u0026end=1229",
+                "start": 92
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lua_bit.c",
+          "file_id": "b9665b8b442adce8"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1874,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/ba682bbc90c00553?start=303\u0026end=1874",
+                "start": 303
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 1874,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/ba682bbc90c00553?start=390\u0026end=1874",
+                "start": 390
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/mt19937-64.c",
+          "file_id": "ba682bbc90c00553"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1609,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/ba88e3c29b2770e4?start=0\u0026end=1609",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hiredis/adapters/ae.h",
+          "file_id": "ba88e3c29b2770e4"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 154,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/bac423b297a39e32?start=86\u0026end=154",
+                "start": 86
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 154,
+                "evidence_url": "https://api.scanoss.com/metadata-contents/bac423b297a39e32?start=86\u0026end=154",
+                "start": 86
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "metadata_declared"
+            }
+          ],
+          "file": "src/Makefile",
+          "file_id": "bac423b297a39e32"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 116,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/bad4c25ebe68b8cc?start=83\u0026end=116",
+                "start": 83
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/llex.h",
+          "file_id": "bad4c25ebe68b8cc"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1896,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/bbb26cc1e942a705?start=177\u0026end=1896",
+                "start": 177
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 2326,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/bbb26cc1e942a705?start=2258\u0026end=2326",
+                "start": 2258
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/jemalloc/test/include/test/SFMT-sse2.h",
+          "file_id": "bbb26cc1e942a705"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1707,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/bbf52d234be39cd7?start=0\u0026end=1707",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/geohash.c",
+          "file_id": "bbf52d234be39cd7"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1564,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/bcb8d53244bce869?start=0\u0026end=1564",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/logreqres.c",
+          "file_id": "bcb8d53244bce869"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1772,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/bcbe02f59f9d561b?start=174\u0026end=1772",
+                "start": 174
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/modules/helloblock.c",
+          "file_id": "bcbe02f59f9d561b"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1741,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/bdfdfb1744a4a348?start=143\u0026end=1741",
+                "start": 143
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "tests/modules/basics.c",
+          "file_id": "bdfdfb1744a4a348"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 2425,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/be2a0c6f860dbc12?start=746\u0026end=2425",
+                "start": 746
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/rio.c",
+          "file_id": "be2a0c6f860dbc12"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 117,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/c0ccb7fd99b1c2f3?start=84\u0026end=117",
+                "start": 84
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/ldebug.c",
+          "file_id": "c0ccb7fd99b1c2f3"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1857,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/c103c5b0b3f32031?start=259\u0026end=1857",
+                "start": 259
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/modules/hellodict.c",
+          "file_id": "c103c5b0b3f32031"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1682,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/c1d3827fb83de3b3?start=0\u0026end=1682",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/rio.h",
+          "file_id": "c1d3827fb83de3b3"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1637,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/c2573300fecc75af?start=34\u0026end=1637",
+                "start": 34
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/ae_select.c",
+          "file_id": "c2573300fecc75af"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 2141,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/c2795dd151535c7f?start=538\u0026end=2141",
+                "start": 538
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/slowlog.c",
+          "file_id": "c2795dd151535c7f"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 173,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/c33dbc7214f75147?start=97\u0026end=173",
+                "start": 97
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "tests/cluster/cluster.tcl",
+          "file_id": "c33dbc7214f75147"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1606,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/c48ca5f98c32d075?start=0\u0026end=1606",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/db.c",
+          "file_id": "c48ca5f98c32d075"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 113,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/c4f325fcf0aab70c?start=55\u0026end=113",
+                "start": 55
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "utils/hyperloglog/hll-gnuplot-graph.rb",
+          "file_id": "c4f325fcf0aab70c"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 144,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/c6c132c5cb162526?start=93\u0026end=144",
+                "start": 93
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "tests/support/redis.tcl",
+          "file_id": "c6c132c5cb162526"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 154,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/c975319180a445b4?start=78\u0026end=154",
+                "start": 78
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "tests/test_helper.tcl",
+          "file_id": "c975319180a445b4"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 116,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/cb0c1c50bac25a3f?start=83\u0026end=116",
+                "start": 83
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lgc.h",
+          "file_id": "cb0c1c50bac25a3f"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 136,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/cb9b6100de97289a?start=103\u0026end=136",
+                "start": 103
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lopcodes.h",
+          "file_id": "cb9b6100de97289a"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 150,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/cd13f4ee6525aa9b?start=117\u0026end=150",
+                "start": 117
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lauxlib.c",
+          "file_id": "cd13f4ee6525aa9b"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1664,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/cd2d4200e1391b02?start=61\u0026end=1664",
+                "start": 61
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/adlist.c",
+          "file_id": "cd2d4200e1391b02"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1742,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/cd730c10b74d9e9b?start=144\u0026end=1742",
+                "start": 144
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/modules/hellotimer.c",
+          "file_id": "cd730c10b74d9e9b"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 779,
+                "evidence_url": "https://api.scanoss.com/v3/notice-contents/ce005f1c12c2b861?start=714\u0026end=779",
+                "start": 714
+              },
+              "license_id": "MIT",
+              "source": "notice_declared"
+            }
+          ],
+          "file": "deps/lua/README",
+          "file_id": "ce005f1c12c2b861"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1800,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/ce1868e867507f75?start=163\u0026end=1800",
+                "start": 163
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 7376,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/ce1868e867507f75?start=7316\u0026end=7376",
+                "start": 7316
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/listpack.c",
+          "file_id": "ce1868e867507f75"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 133,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/ce415496a68eea41?start=100\u0026end=133",
+                "start": 100
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/loadlib.c",
+          "file_id": "ce415496a68eea41"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1768,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/d09374f4202d917e?start=273\u0026end=1768",
+                "start": 273
+              },
+              "license_id": "BSD-2-Clause",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 1768,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/d09374f4202d917e?start=455\u0026end=1768",
+                "start": 455
+              },
+              "license_id": "BSD-2-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/linenoise/linenoise.h",
+          "file_id": "d09374f4202d917e"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1874,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/d18e7b4c47aac07a?start=303\u0026end=1874",
+                "start": 303
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 1874,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/d18e7b4c47aac07a?start=390\u0026end=1874",
+                "start": 390
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/mt19937-64.h",
+          "file_id": "d18e7b4c47aac07a"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1601,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/d21db43887ebd5d1?start=0\u0026end=1601",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/lolwut6.c",
+          "file_id": "d21db43887ebd5d1"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1640,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/d256bc1ac4a2f57c?start=42\u0026end=1640",
+                "start": 42
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/rax_malloc.h",
+          "file_id": "d256bc1ac4a2f57c"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1680,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/d25e134bb2ee0353?start=77\u0026end=1680",
+                "start": 77
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/blocked.c",
+          "file_id": "d25e134bb2ee0353"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 131,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/d3839c2ae0d53296?start=98\u0026end=131",
+                "start": 98
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lapi.h",
+          "file_id": "d3839c2ae0d53296"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1609,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/d3c0dc8c984002f1?start=0\u0026end=1609",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hiredis/adapters/libevent.h",
+          "file_id": "d3c0dc8c984002f1"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1316,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/d3c910c1e29e992c?start=204\u0026end=1316",
+                "start": 204
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 1316,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/d3c910c1e29e992c?start=241\u0026end=1316",
+                "start": 241
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/setcpuaffinity.c",
+          "file_id": "d3c910c1e29e992c"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1565,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/d434905a10c69dca?start=0\u0026end=1565",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/connhelpers.h",
+          "file_id": "d434905a10c69dca"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1743,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/d4b2215767f71cdf?start=140\u0026end=1743",
+                "start": 140
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/endianconv.h",
+          "file_id": "d4b2215767f71cdf"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1532,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/d70b6a17658ee279?start=132\u0026end=1532",
+                "start": 132
+              },
+              "license_id": "BSD-2-Clause",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 1532,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/d70b6a17658ee279?start=226\u0026end=1532",
+                "start": 226
+              },
+              "license_id": "BSD-2-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/sparkline.h",
+          "file_id": "d70b6a17658ee279"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1896,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/d7bbb6bc081901f4?start=322\u0026end=1896",
+                "start": 322
+              },
+              "license_id": "BSL-1.0",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 1896,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/d7bbb6bc081901f4?start=492\u0026end=1896",
+                "start": 492
+              },
+              "license_id": "BSL-1.0",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/fpconv/fpconv_dtoa.h",
+          "file_id": "d7bbb6bc081901f4"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1642,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/d814cf5dd2a0e689?start=39\u0026end=1642",
+                "start": 39
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/ae_epoll.c",
+          "file_id": "d814cf5dd2a0e689"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1896,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/d834a1c71a089c60?start=177\u0026end=1896",
+                "start": 177
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/jemalloc/test/include/test/SFMT-params607.h",
+          "file_id": "d834a1c71a089c60"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1351,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/d8f6349af36e48dc?start=0\u0026end=1351",
+                "start": 0
+              },
+              "license_id": "BSD-2-Clause",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 2027,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/d8f6349af36e48dc?start=77\u0026end=2027",
+                "start": 77
+              },
+              "license_id": "BSD-2-Clause",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 2027,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/d8f6349af36e48dc?start=77\u0026end=2027",
+                "start": 77
+              },
+              "license_id": "GPL-2.0-or-later",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/lzfP.h",
+          "file_id": "d8f6349af36e48dc"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1744,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/d94aeb5269cc217c?start=150\u0026end=1744",
+                "start": 150
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "tests/modules/keyspace_events.c",
+          "file_id": "d94aeb5269cc217c"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 152,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/da534a0f43a29779?start=119\u0026end=152",
+                "start": 119
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/luac.c",
+          "file_id": "da534a0f43a29779"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1855,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/dcdec7c159ea0605?start=252\u0026end=1855",
+                "start": 252
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/testhelp.h",
+          "file_id": "dcdec7c159ea0605"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1818,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/df02ee7748f3edc8?start=0\u0026end=1818",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hiredis/hiredis.c",
+          "file_id": "df02ee7748f3edc8"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1606,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/dfba9dd9f2bf43d3?start=0\u0026end=1606",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/t_list.c",
+          "file_id": "dfba9dd9f2bf43d3"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1603,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/e073162efc2db3a2?start=43\u0026end=1603",
+                "start": 43
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/ae_evport.c",
+          "file_id": "e073162efc2db3a2"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 23349,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/e09571089d164677?start=23288\u0026end=23349",
+                "start": 23288
+              },
+              "license_id": "CC-BY-3.0",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 23348,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/e09571089d164677?start=23294\u0026end=23348",
+                "start": 23294
+              },
+              "license_id": "CC-BY-3.0",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1678,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/e09571089d164677?start=75\u0026end=1678",
+                "start": 75
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/zmalloc.c",
+          "file_id": "e09571089d164677"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1779,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/e0f926488c944ca1?start=198\u0026end=1779",
+                "start": 198
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/modules/helloacl.c",
+          "file_id": "e0f926488c944ca1"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1635,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/e1c4bbdd50b8ebd5?start=0\u0026end=1635",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/syscheck.c",
+          "file_id": "e1c4bbdd50b8ebd5"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1800,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/e2605f46e30e508c?start=197\u0026end=1800",
+                "start": 197
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/ae.h",
+          "file_id": "e2605f46e30e508c"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1896,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/e2ddb219489ba2bf?start=177\u0026end=1896",
+                "start": 177
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/jemalloc/test/include/test/SFMT-params44497.h",
+          "file_id": "e2ddb219489ba2bf"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 157,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/e3c1f71bcef8f7da?start=81\u0026end=157",
+                "start": 81
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "tests/sentinel/run.tcl",
+          "file_id": "e3c1f71bcef8f7da"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 7865,
+                "evidence_url": "https://api.scanoss.com/v3/notice-contents/e491361df1c48dea?start=7708\u0026end=7865",
+                "start": 7708
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "notice_declared"
+            }
+          ],
+          "file": "README.md",
+          "file_id": "e491361df1c48dea"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1586,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/e4bbdf0d0eadfac9?start=0\u0026end=1586",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/crcspeed.h",
+          "file_id": "e4bbdf0d0eadfac9"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1606,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/e5ee22ebd2cef456?start=0\u0026end=1606",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/eval.c",
+          "file_id": "e5ee22ebd2cef456"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 116,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/e6b7a95f294019dc?start=83\u0026end=116",
+                "start": 83
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lgc.c",
+          "file_id": "e6b7a95f294019dc"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1313,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/e6e933a42152002f?start=201\u0026end=1313",
+                "start": 201
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 1313,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/e6e933a42152002f?start=238\u0026end=1313",
+                "start": 238
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/connection.c",
+          "file_id": "e6e933a42152002f"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 124,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/e7bdf0ec919941b1?start=65\u0026end=124",
+                "start": 65
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lualib.h",
+          "file_id": "e7bdf0ec919941b1"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1568,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/e92256a4cc43610e?start=0\u0026end=1568",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hiredis/hiredis_ssl.h",
+          "file_id": "e92256a4cc43610e"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1918,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/eb344690b56deea1?start=315\u0026end=1918",
+                "start": 315
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hiredis/dict.h",
+          "file_id": "eb344690b56deea1"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1606,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/eb6bf3c40c17eafa?start=0\u0026end=1606",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/t_set.c",
+          "file_id": "eb6bf3c40c17eafa"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1631,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/ebd4cf1ad819050a?start=34\u0026end=1631",
+                "start": 34
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/ae_kqueue.c",
+          "file_id": "ebd4cf1ad819050a"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 116,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/ecc3d49cb103f8a0?start=58\u0026end=116",
+                "start": 58
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "utils/redis-sha1.rb",
+          "file_id": "ecc3d49cb103f8a0"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1808,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/ecf27d401ded8a04?start=0\u0026end=1808",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hiredis/fuzzing/format_command_fuzzer.c",
+          "file_id": "ecf27d401ded8a04"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 142,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/ed7bd24d4fb0c5e3?start=109\u0026end=142",
+                "start": 109
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lobject.c",
+          "file_id": "ed7bd24d4fb0c5e3"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1896,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/ee824bbb081ae9ae?start=177\u0026end=1896",
+                "start": 177
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/jemalloc/test/include/test/SFMT-params19937.h",
+          "file_id": "ee824bbb081ae9ae"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1745,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/ef166dc9013a0947?start=147\u0026end=1745",
+                "start": 147
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "tests/modules/hooks.c",
+          "file_id": "ef166dc9013a0947"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 138,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/ef7744edc0b02d64?start=105\u0026end=138",
+                "start": 105
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/ldblib.c",
+          "file_id": "ef7744edc0b02d64"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 12,
+                "evidence_url": "https://api.scanoss.com/v3/notice-contents/f0622468417f0b6c?start=0\u0026end=12",
+                "start": 0
+              },
+              "license_id": "MIT",
+              "source": "notice_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 278,
+                "evidence_url": "https://api.scanoss.com/v3/notice-contents/f0622468417f0b6c?start=213\u0026end=278",
+                "start": 213
+              },
+              "license_id": "MIT",
+              "source": "notice_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 94,
+                "evidence_url": "https://api.scanoss.com/v3/notice-contents/f0622468417f0b6c?start=25\u0026end=94",
+                "start": 25
+              },
+              "license_id": "MIT",
+              "source": "notice_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1427,
+                "evidence_url": "https://api.scanoss.com/v3/notice-contents/f0622468417f0b6c?start=360\u0026end=1427",
+                "start": 360
+              },
+              "license_id": "MIT",
+              "source": "notice_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 1427,
+                "evidence_url": "https://api.scanoss.com/v3/notice-contents/f0622468417f0b6c?start=403\u0026end=1427",
+                "start": 403
+              },
+              "license_id": "MIT",
+              "source": "notice_declared"
+            }
+          ],
+          "file": "deps/lua/COPYRIGHT",
+          "file_id": "f0622468417f0b6c"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1732,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/f062712a26cea6d1?start=129\u0026end=1732",
+                "start": 129
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/pqsort.h",
+          "file_id": "f062712a26cea6d1"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1932,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/f0ef598081923c92?start=324\u0026end=1932",
+                "start": 324
+              },
+              "license_id": "BSL-1.0",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 1932,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/f0ef598081923c92?start=528\u0026end=1932",
+                "start": 528
+              },
+              "license_id": "BSL-1.0",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/fpconv/fpconv_powers.h",
+          "file_id": "f0ef598081923c92"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1606,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/f20ee10d456af433?start=0\u0026end=1606",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/rdb.c",
+          "file_id": "f20ee10d456af433"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1605,
+                "evidence_url": "https://api.scanoss.com/v3/notice-contents/f259e2650df71a3b?start=134\u0026end=1605",
+                "start": 134
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "notice_declared"
+            }
+          ],
+          "file": "deps/jemalloc/include/msvc_compat/C99/stdint.h",
+          "file_id": "f259e2650df71a3b"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1611,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/f6ca8baa1903aa27?start=0\u0026end=1611",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hiredis/alloc.c",
+          "file_id": "f6ca8baa1903aa27"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1644,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/f6f7b0f417b8bccd?start=41\u0026end=1644",
+                "start": 41
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/redis-cli.c",
+          "file_id": "f6f7b0f417b8bccd"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1606,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/f7f4ae50012ba12e?start=0\u0026end=1606",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/aof.c",
+          "file_id": "f7f4ae50012ba12e"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 118,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/f83eefee39bd1cba?start=85\u0026end=118",
+                "start": 85
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lbaselib.c",
+          "file_id": "f83eefee39bd1cba"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1601,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/f89ef12a356a511b?start=0\u0026end=1601",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/acl.c",
+          "file_id": "f89ef12a356a511b"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1713,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/f9942e203eb3d055?start=115\u0026end=1713",
+                "start": 115
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/modules/hellohook.c",
+          "file_id": "f9942e203eb3d055"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1685,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/fa797af56e4d4447?start=0\u0026end=1685",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hiredis/async_private.h",
+          "file_id": "fa797af56e4d4447"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1633,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/fba823607591d128?start=30\u0026end=1633",
+                "start": 30
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/solarisfixes.h",
+          "file_id": "fba823607591d128"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1690,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/fbc96b9439fdc4f5?start=48\u0026end=1690",
+                "start": 48
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/sdsalloc.h",
+          "file_id": "fbc96b9439fdc4f5"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 127,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/fca7974a7e482bd6?start=94\u0026end=127",
+                "start": 94
+              },
+              "license_id": "MIT",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/lua/src/lua.c",
+          "file_id": "fca7974a7e482bd6"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 0.99,
+              "detector": "scancode",
+              "evidence": {
+                "end": 113,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/fd0fc44b66228314?start=55\u0026end=113",
+                "start": 55
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "utils/hyperloglog/hll-err.rb",
+          "file_id": "fd0fc44b66228314"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1351,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/ff38c659808a1586?start=0\u0026end=1351",
+                "start": 0
+              },
+              "license_id": "BSD-2-Clause",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 2027,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/ff38c659808a1586?start=77\u0026end=2027",
+                "start": 77
+              },
+              "license_id": "BSD-2-Clause",
+              "source": "header_declared"
+            },
+            {
+              "confidence": 1,
+              "detector": "scancode",
+              "evidence": {
+                "end": 2027,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/ff38c659808a1586?start=77\u0026end=2027",
+                "start": 77
+              },
+              "license_id": "GPL-2.0-or-later",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/lzf_d.c",
+          "file_id": "ff38c659808a1586"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1611,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/ffa57a443b2bd0c3?start=0\u0026end=1611",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "deps/hiredis/alloc.h",
+          "file_id": "ffa57a443b2bd0c3"
+        },
+        {
+          "detections": [
+            {
+              "confidence": 1,
+              "detector": "licensecheck",
+              "evidence": {
+                "end": 1682,
+                "evidence_url": "https://api.scanoss.com/v3/file-contents/ffb50c2c409c20eb?start=0\u0026end=1682",
+                "start": 0
+              },
+              "license_id": "BSD-3-Clause",
+              "source": "header_declared"
+            }
+          ],
+          "file": "src/intset.h",
+          "file_id": "ffb50c2c409c20eb"
+        }
+      ],
+      "purl": "pkg:github/redis/redis",
+      "requirement": "7.2.4",
+      "version": "7.2.4"
+    }
+  ],
+  "status": {
+    "message": "Resolved 1 of 1 purls",
+    "status": "SUCCESS"
+  }
+}

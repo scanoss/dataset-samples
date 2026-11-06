@@ -1,0 +1,224 @@
+{
+  "components": [
+    {
+      "purl": "pkg:maven/org.apache.logging.log4j/log4j-core",
+      "requirement": "2.14.1",
+      "version": "2.14.1",
+      "vulnerabilities": [
+        {
+          "cve": "CVE-2026-34480",
+          "cvss": [
+            {
+              "cvss": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:N/SC:N/SI:L/SA:N",
+              "cvss_score": 0
+            }
+          ],
+          "epss": {
+            "percentile": 0.64276,
+            "probability": 0.01046
+          },
+          "fixed_versions": [
+            "2.25.4"
+          ],
+          "id": "GHSA-3pxv-7cmr-fjr4",
+          "modified": "2026-09-10",
+          "published": "2026-04-10",
+          "severity": "MODERATE",
+          "source": "OSV",
+          "summary": "Apache Log4j Core: Silent log event loss in XmlLayout due to unescaped XML 1.0 forbidden characters"
+        },
+        {
+          "cve": "CVE-2026-34477",
+          "cvss": [
+            {
+              "cvss": "CVSS:4.0/AV:N/AC:H/AT:N/PR:N/UI:N/VC:L/VI:N/VA:N/SC:N/SI:L/SA:N",
+              "cvss_score": 0
+            }
+          ],
+          "epss": {
+            "percentile": 0.46703,
+            "probability": 0.0056
+          },
+          "fixed_versions": [
+            "2.25.4"
+          ],
+          "id": "GHSA-6hg6-v5c8-fphq",
+          "modified": "2026-09-10",
+          "published": "2026-04-10",
+          "severity": "MODERATE",
+          "source": "OSV",
+          "summary": "Apache Log4j Core: `verifyHostName` attribute silently ignored in TLS configuration"
+        },
+        {
+          "cve": "CVE-2021-45046",
+          "cvss": [
+            {
+              "cvss": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:H",
+              "cvss_score": 0
+            }
+          ],
+          "epss": {
+            "percentile": 0.99979,
+            "probability": 0.99977
+          },
+          "fixed_versions": [
+            "2.3.1",
+            "2.12.2",
+            "2.16.0"
+          ],
+          "id": "GHSA-7rjr-3q55-vv33",
+          "modified": "2026-10-02",
+          "published": "2021-12-14",
+          "severity": "CRITICAL",
+          "source": "OSV",
+          "summary": "Incomplete fix for Apache Log4j vulnerability"
+        },
+        {
+          "cve": "CVE-2021-44832",
+          "cvss": [
+            {
+              "cvss": "CVSS:3.1/AV:N/AC:H/PR:H/UI:N/S:U/C:H/I:H/A:H",
+              "cvss_score": 0
+            }
+          ],
+          "epss": {
+            "percentile": 0.99908,
+            "probability": 0.97906
+          },
+          "fixed_versions": [
+            "2.3.2",
+            "2.12.4",
+            "2.17.1"
+          ],
+          "id": "GHSA-8489-44mv-ggj8",
+          "modified": "2026-06-09",
+          "published": "2022-01-04",
+          "severity": "MODERATE",
+          "source": "OSV",
+          "summary": "Improper Input Validation and Injection in Apache Log4j2"
+        },
+        {
+          "cve": "CVE-2026-34479",
+          "cvss": [
+            {
+              "cvss": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:N/SC:N/SI:L/SA:N",
+              "cvss_score": 0
+            }
+          ],
+          "epss": {
+            "percentile": 0.45254,
+            "probability": 0.00535
+          },
+          "fixed_versions": [
+            "2.25.4"
+          ],
+          "id": "GHSA-h383-gmxw-35v2",
+          "modified": "2026-10-26",
+          "published": "2026-04-10",
+          "severity": "MODERATE",
+          "source": "OSV",
+          "summary": "Apache Log4j 1 to Log4j 2 bridge: silent log event loss in Log4j1XmlLayout due to unescaped XML 1.0 ..."
+        },
+        {
+          "cve": "CVE-2021-44228",
+          "cvss": [
+            {
+              "cvss": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H/E:H",
+              "cvss_score": 0
+            }
+          ],
+          "epss": {
+            "percentile": 1,
+            "probability": 0.99999
+          },
+          "fixed_versions": [
+            "2.3.1",
+            "2.12.2",
+            "2.15.0"
+          ],
+          "id": "GHSA-jfh8-c2jp-5v3q",
+          "modified": "2025-10-22",
+          "published": "2021-12-10",
+          "severity": "CRITICAL",
+          "source": "OSV",
+          "summary": "Remote code injection in Log4j"
+        },
+        {
+          "cve": "CVE-2021-45105",
+          "cvss": [
+            {
+              "cvss": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:N/I:N/A:H",
+              "cvss_score": 0
+            }
+          ],
+          "epss": {
+            "percentile": 0.99991,
+            "probability": 0.99999
+          },
+          "fixed_versions": [
+            "2.3.1",
+            "2.12.3",
+            "2.17.0"
+          ],
+          "id": "GHSA-p6xc-xr62-6r2g",
+          "modified": "2026-06-09",
+          "published": "2021-12-18",
+          "severity": "HIGH",
+          "source": "OSV",
+          "summary": "Apache Log4j2 vulnerable to Improper Input Validation and Uncontrolled Recursion"
+        },
+        {
+          "cve": "CVE-2025-68161",
+          "cvss": [
+            {
+              "cvss": "CVSS:4.0/AV:N/AC:H/AT:N/PR:N/UI:N/VC:L/VI:N/VA:N/SC:N/SI:L/SA:N",
+              "cvss_score": 0
+            }
+          ],
+          "epss": {
+            "percentile": 0.55637,
+            "probability": 0.00767
+          },
+          "fixed_versions": [
+            "2.25.3"
+          ],
+          "id": "GHSA-vc5p-v9hr-52mj",
+          "modified": "2026-09-10",
+          "published": "2025-12-18",
+          "severity": "MODERATE",
+          "source": "OSV",
+          "summary": "Apache Log4j does not verify the TLS hostname in its Socket Appender"
+        },
+        {
+          "cve": "",
+          "cvss": [
+            {
+              "cvss": "CVSS:4.0/AV:N/AC:H/AT:N/PR:N/UI:N/VC:L/VI:N/VA:N/SC:N/SI:L/SA:N",
+              "cvss_score": 0
+            },
+            {
+              "cvss": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:H/A:N",
+              "cvss_score": 0
+            }
+          ],
+          "epss": {
+            "percentile": 0,
+            "probability": 0
+          },
+          "fixed_versions": [
+            "2.24.3.rhlw-00004"
+          ],
+          "id": "RHLW-2026-97a6348484d7bbf1",
+          "modified": "2026-10-27",
+          "published": "2026-10-12",
+          "source": "OSV",
+          "summary": "Lightwell Security Advisory: log4j-core 2.24.3.rhlw-00004"
+        }
+      ]
+    }
+  ],
+  "status": {
+    "message": "Resolved 1 of 1 purls",
+    "status": "SUCCESS"
+  }
+}
